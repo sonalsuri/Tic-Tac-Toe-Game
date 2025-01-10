@@ -10,5 +10,7 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project al
 
 ## Technologies Used 💻
 HTML for the structure.
+
 CSS for styling.
+
 JavaScript for game logic and interactivity.
