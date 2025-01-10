@@ -4,13 +4,16 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project al
 
 ## Features ✨
 🎯 Two-player gameplay (Player X and Player O).
+
 🏆 Displays a congratulatory message for the winner.
+
 🔁 Reset functionality to play a new game.
+
 📱 Responsive design for different screen sizes.
 
 ## Technologies Used 💻
-HTML for the structure.
+  HTML for the structure.
 
-CSS for styling.
+  CSS for styling.
 
-JavaScript for game logic and interactivity.
+  JavaScript for game logic and interactivity.
